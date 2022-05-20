@@ -89,7 +89,7 @@ global.wm = '@YUSRIL4YOU'
 global.ucpn = ''
 
 //================= Url =================//
-global.linkgc = 'https://chat.whatsapp.com/CUCsW6BWfmJLJwJgPQIaKM'
+global.linkgc = 'https://chat.whatsapp.com/DLbznbwoQfC4Pf0a6InTe4'
 global.linkig = 'https://www.instagram.com/p/CH1A1c9J5pY/?utm_medium=copy_link'
 global.linkyt = ''
 global.linkfb = 'https://t.me/yusril4you'
@@ -98,15 +98,15 @@ global.web1 = 'https://anu.rasell.repl.co'
 
 global.deslink = ''
 global.titlink = 'Folllow me on Instagram'
-global.bodlink = '@rasel.ganz'
+global.bodlink = '@yusril_rnld'
 
 //========= Url Template Button =========//
 global.dtu = 'Group Bot WhatsApp'
-global.urlnya = 'https://chat.whatsapp.com/CUCsW6BWfmJLJwJgPQIaKM'
+global.urlnya = 'https://chat.whatsapp.com/DLbznbwoQfC4Pf0a6InTe4'
 
 //========= Call Template Button =========//
 global.dtc = 'Add Me'
-global.nmbrnya = '+62 822-5604-8971'
+global.nmbrnya = '+62 895-2041-5063'
 
 
 //============ Proses Bot ============//
