@@ -23,13 +23,13 @@
         "wabot-aq",
         "mymd"
     ],
-    "homepage": "https://github.com/raselcomel/mymd",
+    "homepage": "https://github.com/yusrilrnld/mymd",
     "author": {
-        "name": "@rasel.ganz"
+        "name": "@yusril4you"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/raselcomel/mymd.git"
+        "url": "git+https://github.com/yusrilrnld/mymd.git"
     },
     "bugs": {
         "url": "https://github.com/raselcomel/mymd/issues"
