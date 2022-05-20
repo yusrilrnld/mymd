@@ -19,7 +19,7 @@ global.owner = JSON.parse(fs.readFileSync('./src/owner.json')) // Change owner n
 global.mods = JSON.parse(fs.readFileSync('./src/moderator.json')) // Moderator?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Premium user has unlimited limit 
 
-global.repox = 'raselcomel/mymd'
+global.repox = 'yusrilrnld/mymd'
 global.branx = 'master'
 
 global.APIs = { // API Prefix
@@ -45,8 +45,8 @@ global.APIKeys = { // APIKey Here
 const spack = fs.readFileSync("lib/exif.json")
 const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
-  var sticker_name = ''
-  var sticker_author = '               ig\n🔥 @rasel.ganz 🔥'
+  var sticker_name = 'MY-MD'
+  var sticker_author = '               ig\n★ @yusril_rnld ★'
  } else {
   var sticker_name = stickerpack.spackname
   var sticker_author = stickerpack.sauthor
@@ -68,7 +68,7 @@ const cpack = fs.readFileSync("lib/colong.json")
 const ctickerpack = JSON.parse(cpack)
 if (ctickerpack.cpackname == '') {
   var colong_name = 'sikilinsut olang nylong stikell'
-  var colong_author = 'Ciss 📸\n\n@rasel.ganz'
+  var colong_author = 'Ciss 📸\n\n@YUSRIL4YOU'
  } else {
   var colong_name = ctickerpack.cpackname
   var colong_author = ctickerpack.cauthor
@@ -85,14 +85,14 @@ global.pclg = colong_name
 global.aclg = colong_author
 //======================================//
 
-global.wm = '@rasel.ganz'
+global.wm = '@YUSRIL4YOU'
 global.ucpn = ''
 
 //================= Url =================//
 global.linkgc = 'https://chat.whatsapp.com/CUCsW6BWfmJLJwJgPQIaKM'
 global.linkig = 'https://www.instagram.com/p/CH1A1c9J5pY/?utm_medium=copy_link'
 global.linkyt = ''
-global.linkfb = 'https://fb.watch/aYv0jAffAO'
+global.linkfb = 'https://t.me/yusril4you'
 global.web = 'https://raselcomel.github.io'
 global.web1 = 'https://anu.rasell.repl.co'
 
