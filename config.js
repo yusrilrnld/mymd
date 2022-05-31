@@ -35,7 +35,7 @@ global.APIKeys = { // APIKey Here
 //======= 'https://website': 'apikey' =======//
   'https://api.lolhuman.xyz': '7ecba1cc37eca2e93d6a983b',
   'https://hardianto.xyx': 'hardianto',
-  'https://api.neoxr.eu.org': 'yourkey',
+  'https://api.neoxr.eu.org': 'yntks',
   'https://api.xteam.xyz': 'benniismaelapikey',
   'https://api.zeks.me': 'apivinz'
 }
